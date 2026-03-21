@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # --- CONFIGURATION ---
 BOT_TOKEN = "8662531601:AAGFiF1cDC2hbvfgQOfG1RASW7KZmiG8HCY"
 ADMIN_ID = 8255274063  
-UPI_ID = "74845725@axl ya ritik.0073-7@waaxis" # Apni UPI ID yahan dalo
+UPI_ID = "74845725@axl " .. +kaam na kre to ispe "ritik.0073-7@waaxis"
 
 # --- PLANS DATA ---
 # Yahan apne har plan ka alag Telegram link dalo
