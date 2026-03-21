@@ -10,11 +10,11 @@ UPI_ID = "74845725@axl "
 # --- PLANS DATA ---
 # Yahan apne har plan ka alag Telegram link dalo
 PLANS_DATA = {
-    "149": {"name": "₹149 (800+ Vids)", "link": "https://t.me/+LINK_149_WALA"},
-    "199": {"name": "₹199 (1000+ Vids)", "link": "https://t.me/+LINK_199_WALA"},
-    "249": {"name": "₹249 (1500+ Vids)", "link": "https://t.me/+LINK_249_WALA"},
-    "349": {"name": "₹349 (2500+ Vids)", "link": "https://t.me/+LINK_349_WALA"},
-    "499": {"name": "₹499 (4000+ Vids)", "link": "https://t.me/+LINK_499_WALA"}
+    "149": {"name": "₹149 (800+ Vids)", "link": "https://t.me/+wkJ7OWgc4jY3ZGJl"},
+    "199": {"name": "₹199 (1000+ Vids)", "link": "https://t.me/+L1Q7w5Acn65hYzg1"},
+    "249": {"name": "₹249 (1500+ Vids)", "link": "https://t.me/+y_aUmZ1tSq5mNTA1"},
+    "349": {"name": "₹349 (2500+ Vids)", "link": "https://t.me/+8msk3O168pk5N2I1"},
+    "499": {"name": "₹499 (4000+ Vids)", "link":"https://t.me/+XSKqJ0BWTLxmYzJh"}
 }
 
 # QR Code Image Link (Agar aapke paas direct link nahi hai, toh bot sirf UPI ID dikhayega)
