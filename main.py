@@ -10,7 +10,7 @@ UPI_ID = "74845725@axl "
 # --- PLANS DATA ---
 # Yahan apne har plan ka alag Telegram link dalo
 PLANS_DATA = {
-    "Demo": {"name": "demo video for 15rupees", "link": "https://t.me/+wkJ7OWgc4jY3ZGJl"},
+    "Demo": {"name": "demo video for 15rupees", "link": "https://t.me/+J6uT46KxgR0xMmY1"},
     "149": {"name": "₹149 (500+ Vids)", "link": "https://t.me/+wkJ7OWgc4jY3ZGJl"},
     "199": {"name": "₹199 (1000+ Vids)", "link": "https://t.me/+L1Q7w5Acn65hYzg1"},
     "249": {"name": "₹249 (1500+ Vids)", "link": "https://t.me/+y_aUmZ1tSq5mNTA1"},
